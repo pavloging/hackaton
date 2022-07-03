@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 `yarn` + `yarn start` in directory util
 
-### Information:
+## Information:
 
 Git:
 https://github.com/pavlovsun/hackaton
