@@ -16,7 +16,7 @@ YouTube:
 https://www.youtube.com/watch?v=CT4WsBd09gQ
 
 Git:
-https://github.com/pavlovsun/hackaton
+https://github.com/pavloging/hackaton
 
 Page:
 https://hackaton-ten.vercel.app/
