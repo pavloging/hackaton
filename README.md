@@ -12,8 +12,6 @@ In the project directory, you can run:
 
 ## Information:
 
-YouTube:
-https://www.youtube.com/watch?v=CT4WsBd09gQ
 
 Git:
 https://github.com/pavlovsun/hackaton
